@@ -1,0 +1,22 @@
+
+amazon reviews OnePlus-Unlocked-Android-Smartphone-Charging 1 primary.csv
+https://www.amazon.com/OnePlus-Unlocked-Android-Smartphone-Charging/product-reviews/B07XWGWPH5/ref=cm_cr_getr_d_paging_btm_4?ie=UTF8&filterByStar=all_stars&pageNumber=1&reviewerType=all_reviews&pageSize=10&sortBy=recent&formatType=all_formats
+amazon reviews OnePlus-Unlocked-Android-Smartphone-Charging 2 primary.csv
+https://www.amazon.com/OnePlus-Unlocked-Android-Smartphone-Charging/product-reviews/B07XWGWPH5/ref=cm_cr_getr_d_paging_btm_4?ie=UTF8&filterByStar=all_stars&pageNumber=2&reviewerType=all_reviews&pageSize=10&sortBy=recent&formatType=all_formats
+amazon reviews OnePlus-Unlocked-Android-Smartphone-Charging 3 primary.csv
+https://www.amazon.com/OnePlus-Unlocked-Android-Smartphone-Charging/product-reviews/B07XWGWPH5/ref=cm_cr_getr_d_paging_btm_4?ie=UTF8&filterByStar=all_stars&pageNumber=3&reviewerType=all_reviews&pageSize=10&sortBy=recent&formatType=all_formats
+amazon reviews OnePlus-Unlocked-Android-Smartphone-Charging 4 primary.csv
+https://www.amazon.com/OnePlus-Unlocked-Android-Smartphone-Charging/product-reviews/B07XWGWPH5/ref=cm_cr_getr_d_paging_btm_4?ie=UTF8&filterByStar=all_stars&pageNumber=4&reviewerType=all_reviews&pageSize=10&sortBy=recent&formatType=all_formats
+amazon reviews OnePlus-Unlocked-Android-Smartphone-Charging 5 primary.csv
+https://www.amazon.com/OnePlus-Unlocked-Android-Smartphone-Charging/product-reviews/B07XWGWPH5/ref=cm_cr_getr_d_paging_btm_4?ie=UTF8&filterByStar=all_stars&pageNumber=5&reviewerType=all_reviews&pageSize=10&sortBy=recent&formatType=all_formats
+amazon reviews OnePlus-Unlocked-Android-Smartphone-Charging 6 primary.csv
+https://www.amazon.com/OnePlus-Unlocked-Android-Smartphone-Charging/product-reviews/B07XWGWPH5/ref=cm_cr_getr_d_paging_btm_4?ie=UTF8&filterByStar=all_stars&pageNumber=6&reviewerType=all_reviews&pageSize=10&sortBy=recent&formatType=all_formats
+amazon reviews OnePlus-Unlocked-Android-Smartphone-Charging 7 primary.csv
+https://www.amazon.com/OnePlus-Unlocked-Android-Smartphone-Charging/product-reviews/B07XWGWPH5/ref=cm_cr_getr_d_paging_btm_4?ie=UTF8&filterByStar=all_stars&pageNumber=7&reviewerType=all_reviews&pageSize=10&sortBy=recent&formatType=all_formats
+amazon reviews OnePlus-Unlocked-Android-Smartphone-Charging 8 primary.csv
+https://www.amazon.com/OnePlus-Unlocked-Android-Smartphone-Charging/product-reviews/B07XWGWPH5/ref=cm_cr_getr_d_paging_btm_4?ie=UTF8&filterByStar=all_stars&pageNumber=8&reviewerType=all_reviews&pageSize=10&sortBy=recent&formatType=all_formats
+amazon reviews OnePlus-Unlocked-Android-Smartphone-Charging 9 primary.csv
+https://www.amazon.com/OnePlus-Unlocked-Android-Smartphone-Charging/product-reviews/B07XWGWPH5/ref=cm_cr_getr_d_paging_btm_4?ie=UTF8&filterByStar=all_stars&pageNumber=9&reviewerType=all_reviews&pageSize=10&sortBy=recent&formatType=all_formats
+amazon reviews OnePlus-Unlocked-Android-Smartphone-Charging 10 primary.csv
+https://www.amazon.com/OnePlus-Unlocked-Android-Smartphone-Charging/product-reviews/B07XWGWPH5/ref=cm_cr_getr_d_paging_btm_4?ie=UTF8&filterByStar=all_stars&pageNumber=10&reviewerType=all_reviews&pageSize=10&sortBy=recent&formatType=all_formats
+amazon reviews OnePlus-Unlocked-Android-Smartphone-Charging.csv
